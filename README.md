@@ -1,2 +1,2 @@
 # StringCalculator
-sample string calculator app
+TDD Kata  - Sample String Calculator App
